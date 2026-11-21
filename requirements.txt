@@ -1,5 +1,15 @@
-pandas
-matplotlib
-scikit-learn
-joblib
-notebook
+
+# Student Performance Predictor
+# Python 3.11 recommended
+
+# Data manipulation
+pandas>=2.2,<3.0
+
+# Data visualisation
+matplotlib>=3.8,<4.0
+
+# Machine learning
+scikit-learn>=1.5,<2.0
+
+# Model saving and loading
+joblib>=1.4,<2.0
